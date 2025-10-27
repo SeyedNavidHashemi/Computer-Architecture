@@ -16,7 +16,7 @@ This repository contains 4 projects from the Computer Architecture course, detai
 * **Project 4: 5-Stage Pipelined Processor**
     * The final implementation: a 5-stage pipelined RISC-V core (`IF`, `ID`, `EX`, `MEM`, `WB`). This processor includes full **hazard detection**, **data forwarding**, and branch handling logic to resolve all data and control hazards.
 
-## ⚙️ Implemented RISC-V ISA (RV32I Subset)
+##  Implemented RISC-V ISA (RV32I Subset)
 
 The implemented processors support the following subset of the RV32I instruction set:
 
